@@ -1,0 +1,21 @@
+.sidebar {
+	background: #DDDDFF;
+	padding: 10px;
+}
+
+ul.actions {
+	list-style-type: none;
+}
+
+.note {
+	background-color: #EEE;
+	position: relative;
+	margin-bottom: 1em;
+	padding: 1.5em;
+}
+
+.note .created {
+	position: absolute;
+	bottom: 1.5em;
+	right: 1.5em;
+}
